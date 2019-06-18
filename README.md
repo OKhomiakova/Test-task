@@ -1,2 +1,2 @@
-# NatLex-test-task
+# Test-task
 Single page application in AngularJS
