@@ -7,9 +7,10 @@
   "license": "MIT",
   "dependencies": {
     "angular": "^1.7.5",
+    "angular-animate": "^1.7.5",
     "angular-loader": "^1.7.5",
     "angular-route": "^1.7.5",
-    "angular-animate": "^1.7.5",
+    "angularjs-datepicker": "^2.1.23",
     "html5-boilerplate": "0.0.1"
   },
   "devDependencies": {

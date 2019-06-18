@@ -4,6 +4,7 @@ angular.
   module('appNavbar').
   component('appNavbar', {
     templateUrl: 'app-navbar/app-navbar.template.html',
-    controller: function AppNavbarController() {
+    controller: function Ctrl($scope){
+        $scope.date = new Date();
     }
   });
